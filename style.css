@@ -1,0 +1,97 @@
+html {
+    background-color: #fff;
+    foreground-color: #333;
+}
+
+h1 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+    background-color: #eee;
+    font-family: "Courier New", monospace, monospace;
+    font-size: 2em;
+}
+
+code {
+    font-family: "Courier New", monospace, monospace;
+}
+
+
+noscript {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60ch;
+    line-height: 1.5;
+    padding-bottom: 15em;
+
+    font-family: sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+details {
+    margin: 2em;
+    padding: 1em;
+    background-color: #eee;
+}
+
+details > h1 {
+    margin: 0;
+    padding: 0;
+}
+
+details > p {
+    margin: 1em;
+}
+
+summary > date {
+    float: right;
+}
+
+pre {
+    overflow-x: scroll;
+    border: 0.25em solid #eee;
+    padding: 1em;
+    width: 90%;
+    margin: auto;
+}
+
+blockquote {
+    padding-left: 1em;
+    padding-right: 1em;
+    border-left: 0.25em solid #eee;
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+aside {
+    background-color: #eee;
+    margin: 2em;
+}
+
+aside > p {
+    padding: 1em;
+    padding-top: 0;
+}
+
+dl {
+    display: grid;
+    grid-template: auto / auto 1fr;
+    background-color: #eee;
+    padding-top: 1em;
+    padding-left: 2em;
+}
+
