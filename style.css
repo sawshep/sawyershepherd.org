@@ -8,12 +8,13 @@ h1 {
     padding-bottom: 0.5em;
     text-align: center;
     background-color: #eee;
-    font-family: "Courier New", monospace, monospace;
+    font-family: "Courier", monospace, monospace;
     font-size: 2em;
+    font-weight: normal;
 }
 
 code {
-    font-family: "Courier New", monospace, monospace;
+    font-family: "Courier", monospace, monospace;
 }
 
 
