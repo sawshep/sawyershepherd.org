@@ -106,7 +106,7 @@ as you should apply it liberally and often to your joints.
 ![Gel flux in a syringe](flux.jpg)
 
 
-## Tips (
+## Tips
 
 Before even turning on the iron, you need to pick a suitable
 tip. The best tip is usually the biggest one you can
