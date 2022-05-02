@@ -99,3 +99,15 @@ dl {
 footer p {
     text-align: center;
 }
+
+table, th, td {
+    border: 0.25em solid #eee;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 0.5em;
+}
