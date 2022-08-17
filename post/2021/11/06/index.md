@@ -1,9 +1,13 @@
 # How I Run My Server
 
-<summary>My server used to be an old gaming desktop, now
-running Debian 11. I publish my blog with a custom [static
-site generator](https://github.com/sawshep/sawsge) written
-in Ruby.</summary>
+<time>2021-11-06</time>
+
+<summary>
+My server used to be an old gaming desktop, now running
+Debian 11. I publish my blog with a custom [static site
+generator](https://github.com/sawshep/sawsge) written in
+Ruby.
+</summary>
 
 ## Hardware
 

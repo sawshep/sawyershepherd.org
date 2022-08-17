@@ -1,7 +1,11 @@
 # My Response to Log4Shell
 
-<summary>I have remodeled my entire server stack to better
-defend against critical vulnerabilities.</summary>
+<time>2022-02-28</time>
+
+<summary>
+I have remodeled my entire server stack to better defend
+against critical vulnerabilities.
+</summary>
 
 I know this blogpost is long overdue, with the waves
 Log4Shell sent through the security world having mostly

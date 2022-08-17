@@ -1,10 +1,14 @@
 # Fall 2021 KSU HS CTF Writeup
 
-<summary>[I placed
+<time>2021-11-13</time>
+
+<summary>
+[I placed
 third](https://github.com/AndyGreenPhD/HS_CTF/tree/main/fall_2021)
 at the end of the challenge, winning myself $50. This is how
 I solved the hardest and least-solved questions of each
-category.</summary>
+category.
+</summary>
 
 ## Introduction
 
@@ -36,6 +40,7 @@ I can use regex capture groups to get the number of bytes
 transferred, turn it into an `int`, and add it to a total.
 
 I wrote a Perl script to do just that:
+
 ```perl
 # Open the list of requests made
 open my $lines, "requests.txt" or die "Can't open file";
@@ -119,6 +124,7 @@ First, I attempted to unzip the file, which returned an
 error. By running `binwalk` on the file, I saw that, while
 indeed there was a zip file in it, there were also other
 embedded files.
+
 ```
 DECIMAL  HEXADECIMAL  DESCRIPTION
 0        0x0          Zip archive data, at least v2.0 to extract, compressed size: 12250, uncompressed size: 24626, name: a friend.docx
@@ -151,6 +157,7 @@ a_friend.zip | less` on the whole archive to check for
 anything I might have missed. In fact, I did miss
 something---EXIF data for the supposed PNG embedded in the
 file:
+
 ```
 exif:GPSAltitude="220/1"
 exif:GPSLatitude="41,32.888585N"

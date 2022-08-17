@@ -1,11 +1,14 @@
 # Soldering Tips from Experience
 
-<summary>Soldering is an indispensable skill for countless
-fields of interest, from electric luthierie to car repair.
-While I am not a master at soldering, I hope by sharing what
-I have learned I may help beginners struggling to solder
-clean joints.</summary>
+<time>2021-11-29</time>
 
+<summary>
+Soldering is an indispensable skill for countless fields of
+interest, from electric luthierie to car repair. While I am
+not a master at soldering, I hope by sharing what I have
+learned I may help beginners struggling to solder clean
+joints.
+</summary>
 
 ## Safety
 
@@ -36,13 +39,11 @@ further safety tips throughout the post will be in **bold**.
 
 With that out of the way...
 
-
 ## Iron
 
 You don't need a fancy, expensive soldering station to make
 clean joints. I personally use a $10 soldering iron (which
 included tips and solder!).
-
 
 ## Solder
 
@@ -72,7 +73,6 @@ Personally, I use 60% tin, 40% lead solder. It's the only
 composition of leaded solder I've used. I've found no
 problems with it so far, so why switch?
 
-
 ## Cleaning
 
 You should clean and tin your iron every few joins you
@@ -90,7 +90,6 @@ pictured below.
 
 ![Wire coil soldering iron cleaner](wire-cleaner.jpg)
 
-
 ## Flux
 
 Do not be misled; although solder wire may advertise a rosin
@@ -104,7 +103,6 @@ sold in syringes for easy application, which is appropriate,
 as you should apply it liberally and often to your joints.
 
 ![Gel flux in a syringe](flux.jpg)
-
 
 ## Tips
 
@@ -124,7 +122,6 @@ point](double-flat.jpg)
 If you opt to use a smaller tip, you may have to turn up
 your irons temperature to hasten heat transfer.
 
-
 ## Tinning
 
 Tinning is the process of melting solder against the tip of
@@ -132,7 +129,6 @@ an iron. It helps protect the iron from oxidation, which
 reduces thermal conductivity of the iron and prevents solder
 from sticking to the tip. Always make sure to tin your tip
 before first use and before turning off your iron.
-
 
 ## Temperature
 
@@ -155,7 +151,6 @@ melt nearby plastics.
 After you turn on your iron, let it sit for a few minutes
 (under a watchful eye, of course) to fully heat up.
 
-
 ## Know When to Fold'em
 
 A soldering iron won't always work for your project. For
@@ -170,7 +165,6 @@ aren't skilled enough for an exceptionally difficult job.
 There's less shame in conceding you don't know how to do
 something right at the moment than doing it wrong and
 breaking something.
-
 
 [^lead_poisoning]:
   https://www.cdc.gov/niosh/topics/lead/safe.html

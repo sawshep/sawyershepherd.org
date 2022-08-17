@@ -1,7 +1,11 @@
 # Can Version 0.1.0
 
-<summary>I have released my program Can on RubyGems and the
-Arch User Repository.</summary>
+<time>2022-05-01</time>
+
+<summary>
+I have released my program Can on RubyGems and the Arch User
+Repository.
+</summary>
 
 ## Introduction
 
