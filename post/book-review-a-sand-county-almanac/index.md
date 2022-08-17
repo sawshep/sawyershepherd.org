@@ -1,4 +1,4 @@
-# The Beautiful Prose of *A Sand County Almanac*
+# Book Review: *A Sand County Almanac*
 
 <time>2022-08-17</time>
 
