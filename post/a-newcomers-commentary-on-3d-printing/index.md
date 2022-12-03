@@ -1,6 +1,6 @@
 # A Newcomer's Commentary on 3D Printing
 
-<date>2022-12-02</date>
+<time>2022-12-02</time>
 
 <summary>After recently purchasing my first 3D printer, I
 have developed some thoughts on the technology in
